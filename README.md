@@ -31,3 +31,9 @@ Favorite.js → Mongoose schema
 
 /utils
 dbConnect.js → MongoDB connection done.
+I have attached the screenshots of my working web app!!
+<img width="1906" height="1062" alt="Screenshot 2025-07-17 215733" src="https://github.com/user-attachments/assets/23782f6e-fb44-482b-95b2-ac1a416ceee1" />
+<img width="1906" height="1062" alt="Screenshot 2025-07-17 215733" src="https://github.com/user-attachments/assets/9d8e4937-20a3-4546-80a7-96c54a6297fa" />
+<img width="1793" height="744" alt="Screenshot 2025-07-17 194622" src="https://github.com/user-attachments/assets/217eaf2c-064c-4d19-a65c-7fac81c626f0" />
+
+
